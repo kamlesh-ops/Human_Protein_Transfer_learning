@@ -1,1 +1,1 @@
-# Human_Protein_Transfer_learning
+# Human Protein Classification with PyTorch
