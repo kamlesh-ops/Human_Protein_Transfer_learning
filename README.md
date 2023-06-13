@@ -1,10 +1,11 @@
 # Human Protein Classification with PyTorch
 
+
 An approach to classify mixed patterns of proteins in microscope images using transfer learning.  
 Data Source: Kaggle  
 Link: 
 
-<font = "5">Python Libraries/Frameworks Used<font/>
+## Python Libraries/Frameworks Used
 Pytorch
 Pandas
 Numpy
