@@ -28,6 +28,12 @@ Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models
   5. RandomHorizontalFlip
   6. RandomRotation
 
+## Training
+1. To increase the speed of training, available GPU used.
+2. Learning Rate Scheduling - To change learning rates after each batch of training.
+3. Weight Decay - Regularization technique, prevent weights from becoming too large.
+4. Gradient Clipping - To clip gradient to smaller values while training.
+
 # Loss:
 Binary-Cross Entropy Loss which are suitable and align for F1 metric(when binary loss decrease, f1 metric do not change much)
 
