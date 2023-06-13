@@ -32,7 +32,8 @@ Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models
   5. RandomHorizontalFlip
   6. RandomRotation
 
-## Model: Pre-Trained ResNet18 model, trained on ImageNet is used for the purpose. Initially the ResNet layers are freezed and only final layers are trained. Then unfreezed to train some more.
+## Model:  
+Pre-Trained ResNet18 model, trained on ImageNet is used for the purpose. Initially the ResNet layers are freezed and only final layers are trained. Then unfreezed to train some more.
 
 ## Training
 1. To increase the speed of training, available GPU used.
