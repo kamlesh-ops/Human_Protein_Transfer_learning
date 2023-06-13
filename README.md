@@ -4,7 +4,7 @@ An approach to classify mixed patterns of proteins in microscope images using tr
 Data Source: Kaggle  
 Link: 
 
-##Python Libraries/Frameworks Used
+<font = "5">Python Libraries/Frameworks Used<font/>
 Pytorch
 Pandas
 Numpy
