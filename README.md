@@ -10,7 +10,7 @@ Pandas
 Numpy
 Matplotlib, seaborn (for ploting images and visualisation)
 
-##Notes
+#Notes
 1. The Dataset is found to have class imbalances through visualisation. To handle this, F1 score is used as an evaluation metric, instead of normal accuracy.
 3. Two different approaches to split into train and vaidation sets were made, one using masking and other using conventional train_test_split, and scores were recorded. It was observed that f1 score for masking was better due to slightly more amount of data to train. 
 
