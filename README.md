@@ -5,6 +5,10 @@ An approach to classify mixed patterns of proteins in microscope images using tr
 Data Source: Kaggle  
 Link: 
 
+## About Dataset
+The dataset comprises 10 different cell types(labels), of different morphology. Each image can have more than one label associated.  
+Labels: {0: 'Mitochondria', 1: 'Nuclear bodies', 2: 'Nucleoli', 3: 'Golgi apparatus', 4: 'Nucleoplasm', 5: 'Nucleoli fibrillar center', 6: 'Cytosol', 7: 'Plasma membrane', 8: 'Centrosome', 9: 'Nuclear speckles'}
+
 ## Python Libraries/Frameworks Used
 Pytorch
 Pandas
