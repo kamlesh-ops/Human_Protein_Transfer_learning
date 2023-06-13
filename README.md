@@ -3,7 +3,7 @@
 
 An approach to classify mixed patterns of proteins in microscope images using transfer learning.  
 Data Source: Kaggle  
-Link: [Dataset](/kaggle/input/jovian-pytorch-z2g)
+Link: [Dataset](https://www.kaggle.com/datasets/aakashns/jovian-pytorch-z2g) 
 
 ## About Dataset
 The dataset comprises 10 different cell types(labels), of different morphology. Each image can have more than one label associated.  
