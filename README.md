@@ -32,6 +32,8 @@ Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models
   5. RandomHorizontalFlip
   6. RandomRotation
 
+## Model: Pre-Trained ResNet18 model, trained on ImageNet is used for the purpose. Initially the ResNet layers are freezed and only final layers are trained. Then unfreezed to train some more.
+
 ## Training
 1. To increase the speed of training, available GPU used.
 2. Learning Rate Scheduling - To change learning rates after each batch of training.
@@ -43,6 +45,10 @@ Binary-Cross Entropy Loss which are suitable and align for F1 metric(when binary
 
 # Optimizer
 Adam - Helps to converge faster
+
+## Accuracy_score:
+1. Using masking: Around 60% of validation accuracy is achieved
+2. Using train_test_split: around 50% accuracy is obtained.
 
 
 
