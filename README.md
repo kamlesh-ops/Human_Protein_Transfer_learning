@@ -17,7 +17,7 @@ Matplotlib, seaborn (for ploting images and visualisation)
 ##Features
 1. Channel-wise Data Augmentation : Each of the channels is normalised by subtracting from mean and dividing by standard deviation across each channel. This is helpful to prevent any one channel from disproportionately affecting gradients.  
 For this purpose the values of mean and standard deviation are taken from ImageNet Dataset, which is suggested for pre-trained models on ImageNet.  
-Link: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models.html) 
+Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models.html) 
 
 
 
