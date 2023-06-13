@@ -20,7 +20,7 @@ Matplotlib, seaborn (for ploting images and visualisation)
 For this purpose the values of mean and standard deviation are taken from ImageNet Dataset, which is suggested for pre-trained models on ImageNet.  
 Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models.html) 
 
-2.Different transformations applied to the image:
+2.Different transformations (augmentations) applied to the image:
   1. Random Cropping
   2. Random Resized Cropping
   3. Normalize
@@ -36,6 +36,9 @@ Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models
 
 # Loss:
 Binary-Cross Entropy Loss which are suitable and align for F1 metric(when binary loss decrease, f1 metric do not change much)
+
+# Optimizer
+Adam - Helps to converge faster
 
 
 
