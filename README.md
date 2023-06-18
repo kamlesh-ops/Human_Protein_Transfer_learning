@@ -35,7 +35,7 @@ Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models
 ## Model:  
 Pre-Trained ResNet18 model, trained on ImageNet is used for the purpose. Initially the ResNet layers are freezed and only final layers are trained. Then unfreezed to train some more.
 
-## Comparisons
+## Comparisons:
 <img src = "https://github.com/kamlesh-ops/Human_Protein_Transfer_learning/assets/101917668/e4dbc196-70d3-4810-9191-c671bc364e7e" width="500" height="400"> 
 
 
