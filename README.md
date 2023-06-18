@@ -1,7 +1,9 @@
 # Human Protein Classification with PyTorch
 
 
-An approach to classify mixed patterns of proteins in microscope images using transfer learning.  
+An approach to classify mixed patterns of proteins in microscope images using transfer learning.   
+<img src = "https://github.com/kamlesh-ops/Human_Protein_Transfer_learning/assets/101917668/d6d59939-49a1-4018-ad6b-d24fc069a69f" width = "100" height = "100">  
+
 Data Source: Kaggle  
 Link: [Dataset](https://www.kaggle.com/datasets/aakashns/jovian-pytorch-z2g) 
 
