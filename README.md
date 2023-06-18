@@ -35,6 +35,8 @@ Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models
 ## Model:  
 Pre-Trained ResNet18 model, trained on ImageNet is used for the purpose. Initially the ResNet layers are freezed and only final layers are trained. Then unfreezed to train some more.
 
+## Comparisons
+
 ## Training
 1. To increase the speed of training, available GPU used.
 2. Learning Rate Scheduling - To change learning rates after each batch of training.
