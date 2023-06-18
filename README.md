@@ -36,8 +36,10 @@ Reference: [Pre-Trained models_Pytorch](https://pytorch.org/vision/stable/models
 Pre-Trained ResNet18 model, trained on ImageNet is used for the purpose. Initially the ResNet layers are freezed and only final layers are trained. Then unfreezed to train some more.
 
 ## Comparisons
-<img src = "https://github.com/kamlesh-ops/Human_Protein_Transfer_learning/assets/101917668/e4dbc196-70d3-4810-9191-c671bc364e7e" width="500" height="400">
-
+<img src = "https://github.com/kamlesh-ops/Human_Protein_Transfer_learning/assets/101917668/e4dbc196-70d3-4810-9191-c671bc364e7e" width="500" height="400">  
+The above score v/s epochs plot for two different cases:  
+1. Using standard train_test split(1st hump)  
+2. Using masking(2nd hump)  
 
 ## Training
 1. To increase the speed of training, available GPU used.
