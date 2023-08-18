@@ -58,9 +58,9 @@ Binary-Cross Entropy Loss which are suitable and align for F1 metric(when binary
 # Optimizer
 Adam - Helps to converge faster
 
-## Accuracy_score:
-1. Using masking: Around 60% of validation accuracy is achieved
-2. Using train_test_split: around 50% accuracy is obtained.
+## Accuracy_score  
+1. Using masking: Around 60% of validation score is achieved
+2. Using train_test_split: Around 50% validation score is obtained.
 
 
 
